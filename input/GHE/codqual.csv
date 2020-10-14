@@ -1,0 +1,219 @@
+g.whoregion,country,iso3,codqual
+AFR,Algeria,DZA,
+AFR,Angola,AGO,
+AFR,Benin,BEN,
+AFR,Botswana,BWA,
+AFR,Burkina Faso,BFA,
+AFR,Burundi,BDI,
+AFR,Cabo Verde,CPV,3
+AFR,Cameroon,CMR,
+AFR,Central African Republic,CAF,
+AFR,Chad,TCD,
+AFR,Comoros,COM,
+AFR,Congo,COG,
+AFR,Côte d'Ivoire,CIV,
+AFR,Democratic Republic of the Congo,COD,
+AFR,Equatorial Guinea,GNQ,
+AFR,Eritrea,ERI,
+AFR,Eswatini,SWZ,
+AFR,Ethiopia,ETH,
+AFR,Gabon,GAB,
+AFR,Gambia,GMB,
+AFR,Ghana,GHA,
+AFR,Guinea,GIN,
+AFR,Guinea-Bissau,GNB,
+AFR,Kenya,KEN,
+AFR,Lesotho,LSO,
+AFR,Liberia,LBR,
+AFR,Madagascar,MDG,
+AFR,Malawi,MWI,
+AFR,Mali,MLI,
+AFR,Mauritania,MRT,
+AFR,Mauritius,MUS,1
+AFR,Mozambique,MOZ,
+AFR,Namibia,NAM,
+AFR,Niger,NER,
+AFR,Nigeria,NGA,
+AFR,Rwanda,RWA,
+AFR,Sao Tome and Principe,STP,
+AFR,Senegal,SEN,
+AFR,Seychelles,SYC,2
+AFR,Sierra Leone,SLE,
+AFR,South Africa,ZAF,2
+AFR,South Sudan,SSD,
+AFR,Togo,TGO,
+AFR,Uganda,UGA,
+AFR,United Republic of Tanzania,TZA,
+AFR,Zambia,ZMB,
+AFR,Zimbabwe,ZWE,
+AMR,Anguilla,AIA,
+AMR,Antigua and Barbuda,ATG,2
+AMR,Argentina,ARG,2
+AMR,Aruba,ABW,
+AMR,Bahamas,BHS,1
+AMR,Barbados,BRB,2
+AMR,Belize,BLZ,2
+AMR,Bermuda,BMU,
+AMR,Bolivia (Plurinational State of),BOL,
+AMR,"Bonaire, Saint Eustatius and Saba",BES,
+AMR,Brazil,BRA,1
+AMR,British Virgin Islands,VGB,
+AMR,Canada,CAN,1
+AMR,Cayman Islands,CYM,
+AMR,Chile,CHL,1
+AMR,Colombia,COL,2
+AMR,Costa Rica,CRI,2
+AMR,Cuba,CUB,1
+AMR,Curaçao,CUW,
+AMR,Dominica,DMA,2
+AMR,Dominican Republic,DOM,3
+AMR,Ecuador,ECU,2
+AMR,El Salvador,SLV,3
+AMR,Grenada,GRD,1
+AMR,Guatemala,GTM,
+AMR,Guyana,GUY,2
+AMR,Haiti,HTI,
+AMR,Honduras,HND,4
+AMR,Jamaica,JAM,3
+AMR,Mexico,MEX,1
+AMR,Montserrat,MSR,
+AMR,Netherlands Antilles,ANT,
+AMR,Nicaragua,NIC,2
+AMR,Panama,PAN,2
+AMR,Paraguay,PRY,2
+AMR,Peru,PER,3
+AMR,Puerto Rico,PRI,
+AMR,Saint Kitts and Nevis,KNA,2
+AMR,Saint Lucia,LCA,2
+AMR,Saint Vincent and the Grenadines,VCT,1
+AMR,Sint Maarten (Dutch part),SXM,
+AMR,Suriname,SUR,2
+AMR,Trinidad and Tobago,TTO,1
+AMR,Turks and Caicos Islands,TCA,
+AMR,United States of America,USA,1
+AMR,Uruguay,URY,2
+AMR,Venezuela (Bolivarian Republic of),VEN,2
+EMR,Afghanistan,AFG,
+EMR,Bahrain,BHR,3
+EMR,Djibouti,DJI,
+EMR,Egypt,EGY,3
+EMR,Iran (Islamic Republic of),IRN,3
+EMR,Iraq,IRQ,3
+EMR,Jordan,JOR,3
+EMR,Kuwait,KWT,3
+EMR,Lebanon,LBN,
+EMR,Libya,LBY,
+EMR,Morocco,MAR,4
+EMR,Oman,OMN,4
+EMR,Pakistan,PAK,
+EMR,Qatar,QAT,
+EMR,Saudi Arabia,SAU,4
+EMR,Somalia,SOM,
+EMR,Sudan,SDN,
+EMR,Syrian Arab Republic,SYR,3
+EMR,Tunisia,TUN,4
+EMR,United Arab Emirates,ARE,3
+EMR,West Bank and Gaza Strip,PSE,
+EMR,Yemen,YEM,
+EUR,Albania,ALB,3
+EUR,Andorra,AND,2
+EUR,Armenia,ARM,1
+EUR,Austria,AUT,1
+EUR,Azerbaijan,AZE,3
+EUR,Belarus,BLR,2
+EUR,Belgium,BEL,1
+EUR,Bosnia and Herzegovina,BIH,3
+EUR,Bulgaria,BGR,2
+EUR,Croatia,HRV,1
+EUR,Cyprus,CYP,3
+EUR,Czechia,CZE,1
+EUR,Denmark,DNK,1
+EUR,Estonia,EST,1
+EUR,Finland,FIN,1
+EUR,France,FRA,1
+EUR,Georgia,GEO,3
+EUR,Germany,DEU,1
+EUR,Greece,GRC,2
+EUR,Greenland,GRL,
+EUR,Hungary,HUN,1
+EUR,Iceland,ISL,1
+EUR,Ireland,IRL,1
+EUR,Israel,ISR,1
+EUR,Italy,ITA,1
+EUR,Kazakhstan,KAZ,2
+EUR,Kyrgyzstan,KGZ,1
+EUR,Latvia,LVA,1
+EUR,Lithuania,LTU,1
+EUR,Luxembourg,LUX,1
+EUR,Malta,MLT,1
+EUR,Monaco,MCO,3
+EUR,Montenegro,MNE,3
+EUR,Netherlands,NLD,1
+EUR,Norway,NOR,1
+EUR,Poland,POL,2
+EUR,Portugal,PRT,2
+EUR,Republic of Moldova,MDA,1
+EUR,Romania,ROU,1
+EUR,Russian Federation,RUS,2
+EUR,San Marino,SMR,2
+EUR,Serbia,SRB,2
+EUR,Serbia & Montenegro,SCG,
+EUR,Slovakia,SVK,1
+EUR,Slovenia,SVN,1
+EUR,Spain,ESP,1
+EUR,Sweden,SWE,1
+EUR,Switzerland,CHE,1
+EUR,Tajikistan,TJK,
+EUR,The Former Yugoslav Republic of Macedonia,MKD,1
+EUR,Turkey,TUR,2
+EUR,Turkmenistan,TKM,
+EUR,Ukraine,UKR,2
+EUR,United Kingdom of Great Britain and Northern Ireland,GBR,1
+EUR,Uzbekistan,UZB,1
+SEA,Bangladesh,BGD,
+SEA,Bhutan,BTN,
+SEA,Democratic People's Republic of Korea,PRK,
+SEA,India,IND,4
+SEA,Indonesia,IDN,
+SEA,Maldives,MDV,3
+SEA,Myanmar,MMR,
+SEA,Nepal,NPL,
+SEA,Sri Lanka,LKA,
+SEA,Thailand,THA,3
+SEA,Timor-Leste,TLS,
+WPR,American Samoa,ASM,
+WPR,Australia,AUS,1
+WPR,Brunei Darussalam,BRN,
+WPR,Cambodia,KHM,
+WPR,China,CHN,3
+WPR,"China, Hong Kong SAR",HKG,
+WPR,"China, Macao SAR",MAC,
+WPR,Cook Islands,COK,2
+WPR,Fiji,FJI,2
+WPR,French Polynesia,PYF,
+WPR,Guam,GUM,
+WPR,Japan,JPN,1
+WPR,Kiribati,KIR,3
+WPR,Lao People's Democratic Republic,LAO,
+WPR,Malaysia,MYS,4
+WPR,Marshall Islands,MHL,
+WPR,Micronesia (Federated States of),FSM,
+WPR,Mongolia,MNG,3
+WPR,Nauru,NRU,
+WPR,New Caledonia,NCL,
+WPR,New Zealand,NZL,1
+WPR,Niue,NIU,
+WPR,Northern Mariana Islands,MNP,
+WPR,Palau,PLW,3
+WPR,Papua New Guinea,PNG,
+WPR,Philippines,PHL,2
+WPR,Republic of Korea,KOR,1
+WPR,Samoa,WSM,
+WPR,Singapore,SGP,2
+WPR,Solomon Islands,SLB,
+WPR,Tokelau,TKL,
+WPR,Tonga,TON,
+WPR,Tuvalu,TUV,
+WPR,Vanuatu,VUT,
+WPR,Viet Nam,VNM,
+WPR,Wallis and Futuna Islands,WLF,

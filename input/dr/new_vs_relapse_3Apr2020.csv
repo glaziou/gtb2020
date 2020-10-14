@@ -1,0 +1,55 @@
+country,iso3,year,region,level,data_source,dr_type,dst_rlt_new,dst_rlt_ret,dst_rlt_rel,dst_rlt_fail,dst_rlt_default,prop_ret_dst,mdr_rr_new,mdr_rr_ret,mdr_rr_rel,mdr_rr_fail,mdr_rr_default
+Azerbaijan,AZE,2013,EUR,national,survey,RR,549,240,92,75,71,0.99,72,66,10,38,18
+Bangladesh,BGD,2012,SEAR,national,survey,RR,1048,291,191,55,32,0.96,15,84,41,35,4
+Bangladesh,BGD,2019,SEA,national,survey,RR,20,123,104,4,14,0.99,18,20,19,0,1
+Belarus,BLR,2010,EUR,Minsk,survey,RR,155,67,25,22,17,0.96,56,51,15,19,14
+Belarus ,BLR,2011,EUR,national,survey,RR,934,410,252,81,42,0.91,302,310,186,68,29
+Burkina Faso,BFA,2017,AFR,national,survey,RR,993,141,56,41,17,0.81,20,20,8,9,0
+"China, Macao SAR",CHN,2005,WPR,Macao,surveillance,RR,265,19,19,0,4,1.21,6,3,1,0,1
+Côte d'Ivoire,CIV,2017,AFR,national,survey,RR,992,100,68,28,5,1.01,46,22,6,11,2
+Cuba,CUB,1997,AMR,national,surveillance,RR,241,25,19,3,3,1,0,6,4,1,1
+Cuba,CUB,1999,AMR,national,surveillance,RR,321,17,15,2,0,1,3,1,0,1,0
+Cuba,CUB,2002,AMR,national,surveillance,RR,195,24,22,1,1,1,1,1,1,0,0
+Cuba,CUB,2003,AMR,national,surveillance,RR,193,29,21,1,1,0.79,1,4,3,1,0
+Cuba,CUB,2004,AMR,national,surveillance,RR,177,14,11,2,1,1,0,3,3,0,0
+Cuba,CUB,2005,AMR,national,surveillance,RR,169,19,18,1,0,1,0,1,1,0,0
+Djibouti,DJI,2015,EMR,national,survey,RR,301,65,5,10,1,0.25,13,20,4,10,0
+DPR Korea,PRK,2014,SEAR,sub-national,survey,RR,362,98,71,20,7,1,8,16,10,4,2
+Eritrea,ERI,2018,AFR,national,survey,RR,502,53,47,2,4,1,10,4,3,1,0
+Eswatini,SWZ,2018,AFR,national,survey,RR,636,99,89,2,1,0.93,49,14,11,2,0
+Honduras,HND,2004,AMR,national,survey,RR,457,73,23,16,23,0.85,8,9,1,3,4
+Iraq,IRQ,2013,EMR,national,survey,RR,888,140,78,18,9,0.75,10,28,14,6,1
+Kenya,KEN,2014,AFR,national,survey,RR,1680,194,148,8,38,1,11,4,3,1,0
+Lao People's Democratic Republic,LAO,2018,WPR,national,survey,RR,776,44,26,5,10,0.93,16,2,1,0,1
+Madagascar,MDG,2007,AFR,national,survey,RR,810,51,28,10,1,0.76,4,2,2,0,0
+Mongolia,MNG,2016,WPR,national,survey,RR,1178,295,162,11,20,0.65,62,45,25,0,5
+Morocco,MAR,2006,EMR,national,survey,RR,1049,181,110,35,5,0.83,5,22,10,8,1
+Myanmar,MMR,2013,SEAR,national,survey,RR,1103,58,14,3,3,0.34,54,16,2,2,0
+Namibia,NAM,2015,AFR,national,survey,RR,2029,594,374,9,57,0.74,90,50,32,4,6
+Nepal,NPL,2011,SEAR,national,survey,RR,664,142,93,27,15,0.95,17,25,11,10,1
+Nicaragua,NIC,2006,AMR,national,survey,RR,320,103,53,9,37,0.96,2,8,2,4,3
+Nigeria,NGA,2010,AFR,national,survey,RR,1129,230,132,15,66,0.93,24,27,16,4,3
+Pakistan,PAK,2013,EMR,national,survey,RR,1338,210,124,16,53,0.92,50,43,23,10,4
+Philippines,PHL,2018,WPR,national,survey,RR,2107,230,114,6,74,0.84,58,71,41,3,15
+Russian Federation,RUS,2002,EUR,Arkhangelsk Oblast,surveillance,RR,301,172,115,35,22,1,56,82,53,19,10
+Russian Federation,RUS,2003,EUR,Orel Oblast,surveillance,RR,330,41,26,0,1,0.66,11,7,5,0,1
+Russian Federation,RUS,2003,EUR,Arkhangelsk Oblast,surveillance,RR,299,124,89,10,20,0.96,59,71,49,6,11
+Russian Federation,RUS,2003,EUR,Tomsk Oblast,surveillance,RR,527,133,99,17,14,0.98,59,60,42,9,7
+Russian Federation,RUS,2004,EUR,Orel Oblast,surveillance,RR,328,51,34,4,3,0.8,19,13,9,1,0
+Russian Federation,RUS,2004,EUR,Arkhangelsk Oblast,surveillance,RR,316,103,83,7,12,0.99,69,62,52,5,4
+Russian Federation,RUS,2004,EUR,Tomsk Oblast,surveillance,MDR,565,112,102,6,4,1,95,53,47,4,2
+Russian Federation,RUS,2005,EUR,Orel Oblast,surveillance,MDR,311,36,21,2,0,0.64,23,9,5,1,0
+Russian Federation,RUS,2005,EUR,Arkhangelsk Oblast,surveillance,MDR,297,98,84,2,12,1,85,61,55,1,6
+Russian Federation,RUS,2005,EUR,Tomsk Oblast,surveillance,MDR,515,192,122,29,20,0.89,77,124,61,28,14
+Russian Federation,RUS,2006,EUR,Orel Oblast,surveillance,MDR,317,30,14,0,0,0.47,28,5,2,0,0
+Rwanda,RWA,2005,AFR,national,survey,MDR,616,85,75,5,5,1,24,8,2,5,1
+Rwanda,RWA,2015,AFR,national,survey,MDR,1033,84,69,8,5,0.98,14,9,7,2,0
+Senegal,SEN,2006,AFR,national,survey,MDR,237,42,19,9,12,0.95,5,7,3,4,0
+Senegal,SEN,2014,AFR,national,survey,MDR,818,97,63,11,15,0.92,4,17,9,3,0
+Somalia,SOM,2011,AFR,national,survey,MDR,754,96,44,28,14,0.9,42,45,18,18,4
+Spain,ESP,2005,EUR,Galicia,surveillance,MDR,566,68,61,0,7,1,1,1,0,0,1
+Sri Lanka,LKA,2018,SEA,national,survey,RR,1052,67,42,4,19,0.97,2,3,3,0,0
+Sudan,SDN,2017,EMR,national,survey,RR,1030,255,53,32,65,0.59,32,38,12,8,4
+Tanzania,TZA,2007,AFR,national,survey,MDR,909,127,79,24,0,0.81,11,5,4,1,0
+Togo,TGO,2018,AFR,national,survey,RR,805,93,43,31,19,1,12,9,1,5,3
+Ukraine,UKR,2014,EUR,national,survey,MDR,1237,313,217,43,41,0.96,298,182,132,29,14

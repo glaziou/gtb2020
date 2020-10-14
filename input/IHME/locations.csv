@@ -1,0 +1,409 @@
+﻿location_set_version_id,location_id,location_name,parent_id,level,sort_order,subnational_location
+331,1,Global,1,0,1,0
+331,44635,High SDI,1,1,2,0
+331,44634,High-middle SDI,1,1,3,0
+331,44639,Middle SDI,1,1,4,0
+331,44636,Low-middle SDI,1,1,5,0
+331,44637,Low SDI,1,1,6,0
+331,64,High-income,1,1,7,0
+331,100,High-income North America,64,2,8,0
+331,101,Canada,100,3,9,0
+331,349,Greenland,100,3,10,0
+331,102,United States,100,3,11,0
+331,523,Alabama,102,4,11.1,1
+331,524,Alaska,102,4,11.12,1
+331,525,Arizona,102,4,11.13,1
+331,526,Arkansas,102,4,11.14,1
+331,527,California,102,4,11.15,1
+331,528,Colorado,102,4,11.16,1
+331,529,Connecticut,102,4,11.17,1
+331,530,Delaware,102,4,11.18,1
+331,531,District of Columbia,102,4,11.19,1
+331,532,Florida,102,4,11.2,1
+331,533,Georgia,102,4,11.21,1
+331,534,Hawaii,102,4,11.22,1
+331,535,Idaho,102,4,11.23,1
+331,536,Illinois,102,4,11.24,1
+331,537,Indiana,102,4,11.25,1
+331,538,Iowa,102,4,11.26,1
+331,539,Kansas,102,4,11.27,1
+331,540,Kentucky,102,4,11.28,1
+331,541,Louisiana,102,4,11.29,1
+331,542,Maine,102,4,11.3,1
+331,543,Maryland,102,4,11.31,1
+331,544,Massachusetts,102,4,11.32,1
+331,545,Michigan,102,4,11.33,1
+331,546,Minnesota,102,4,11.34,1
+331,547,Mississippi,102,4,11.35,1
+331,548,Missouri,102,4,11.36,1
+331,549,Montana,102,4,11.37,1
+331,550,Nebraska,102,4,11.38,1
+331,551,Nevada,102,4,11.39,1
+331,552,New Hampshire,102,4,11.4,1
+331,553,New Jersey,102,4,11.41,1
+331,554,New Mexico,102,4,11.42,1
+331,555,New York,102,4,11.43,1
+331,556,North Carolina,102,4,11.44,1
+331,557,North Dakota,102,4,11.45,1
+331,558,Ohio,102,4,11.46,1
+331,559,Oklahoma,102,4,11.47,1
+331,560,Oregon,102,4,11.48,1
+331,561,Pennsylvania,102,4,11.49,1
+331,562,Rhode Island,102,4,11.5,1
+331,563,South Carolina,102,4,11.51,1
+331,564,South Dakota,102,4,11.52,1
+331,565,Tennessee,102,4,11.53,1
+331,566,Texas,102,4,11.54,1
+331,567,Utah,102,4,11.55,1
+331,568,Vermont,102,4,11.56,1
+331,569,Virginia,102,4,11.57,1
+331,570,Washington,102,4,11.58,1
+331,571,West Virginia,102,4,11.59,1
+331,572,Wisconsin,102,4,11.6,1
+331,573,Wyoming,102,4,11.61,1
+331,70,Australasia,64,2,12,0
+331,71,Australia,70,3,13,0
+331,72,New Zealand,70,3,14,0
+331,65,High-income Asia Pacific,64,2,15,0
+331,66,Brunei,65,3,16,0
+331,67,Japan,65,3,17,0
+331,35446,Aichi,67,4,17.1,1
+331,35428,Akita,67,4,17.11,1
+331,35425,Aomori,67,4,17.12,1
+331,35435,Chiba,67,4,17.13,1
+331,35461,Ehime,67,4,17.14,1
+331,35441,Fukui,67,4,17.15,1
+331,35463,Fukuoka,67,4,17.16,1
+331,35430,Fukushima,67,4,17.17,1
+331,35444,Gifu,67,4,17.18,1
+331,35433,Gunma,67,4,17.19,1
+331,35457,Hiroshima,67,4,17.2,1
+331,35424,Hokkaidō,67,4,17.21,1
+331,35451,Hyōgo,67,4,17.22,1
+331,35431,Ibaraki,67,4,17.23,1
+331,35440,Ishikawa,67,4,17.24,1
+331,35426,Iwate,67,4,17.25,1
+331,35460,Kagawa,67,4,17.26,1
+331,35469,Kagoshima,67,4,17.27,1
+331,35437,Kanagawa,67,4,17.28,1
+331,35462,Kōchi,67,4,17.29,1
+331,35466,Kumamoto,67,4,17.3,1
+331,35449,Kyōto,67,4,17.31,1
+331,35447,Mie,67,4,17.32,1
+331,35427,Miyagi,67,4,17.33,1
+331,35468,Miyazaki,67,4,17.34,1
+331,35443,Nagano,67,4,17.35,1
+331,35465,Nagasaki,67,4,17.36,1
+331,35452,Nara,67,4,17.37,1
+331,35438,Niigata,67,4,17.38,1
+331,35467,Ōita,67,4,17.39,1
+331,35456,Okayama,67,4,17.4,1
+331,35470,Okinawa,67,4,17.41,1
+331,35450,Ōsaka,67,4,17.42,1
+331,35464,Saga,67,4,17.43,1
+331,35434,Saitama,67,4,17.44,1
+331,35448,Shiga,67,4,17.45,1
+331,35455,Shimane,67,4,17.46,1
+331,35445,Shizuoka,67,4,17.47,1
+331,35432,Tochigi,67,4,17.48,1
+331,35459,Tokushima,67,4,17.49,1
+331,35436,Tōkyō,67,4,17.5,1
+331,35454,Tottori,67,4,17.51,1
+331,35439,Toyama,67,4,17.52,1
+331,35453,Wakayama,67,4,17.53,1
+331,35429,Yamagata,67,4,17.54,1
+331,35458,Yamaguchi,67,4,17.55,1
+331,35442,Yamanashi,67,4,17.56,1
+331,69,Singapore,65,3,18,0
+331,68,South Korea,65,3,19,0
+331,73,Western Europe,64,2,20,0
+331,74,Andorra,73,3,21,0
+331,75,Austria,73,3,22,0
+331,76,Belgium,73,3,23,0
+331,77,Cyprus,73,3,24,0
+331,78,Denmark,73,3,25,0
+331,79,Finland,73,3,26,0
+331,80,France,73,3,27,0
+331,81,Germany,73,3,28,0
+331,82,Greece,73,3,29,0
+331,83,Iceland,73,3,30,0
+331,84,Ireland,73,3,31,0
+331,85,Israel,73,3,32,0
+331,86,Italy,73,3,33,0
+331,87,Luxembourg,73,3,34,0
+331,88,Malta,73,3,35,0
+331,89,Netherlands,73,3,36,0
+331,90,Norway,73,3,37,0
+331,91,Portugal,73,3,38,0
+331,92,Spain,73,3,39,0
+331,93,Sweden,73,3,40,0
+331,4944,Stockholm,93,4,40.1,1
+331,4940,Sweden except Stockholm,93,4,40.2,1
+331,94,Switzerland,73,3,41,0
+331,95,United Kingdom,73,3,42,0
+331,4749,England,95,4,43,1
+331,4621,East Midlands,4749,5,43.1,1
+331,4623,East of England,4749,5,43.2,1
+331,4624,Greater London,4749,5,43.3,1
+331,4618,North East England,4749,5,43.4,1
+331,4619,North West England,4749,5,43.5,1
+331,4625,South East England,4749,5,43.6,1
+331,4626,South West England,4749,5,43.7,1
+331,4622,West Midlands,4749,5,43.8,1
+331,4620,Yorkshire and the Humber,4749,5,43.9,1
+331,433,Northern Ireland,95,4,44,1
+331,434,Scotland,95,4,45,1
+331,4636,Wales,95,4,46,1
+331,96,Southern Latin America,64,2,47,0
+331,97,Argentina,96,3,48,0
+331,98,Chile,96,3,49,0
+331,99,Uruguay,96,3,50,0
+331,31,"Central Europe, Eastern Europe, and Central Asia",1,1,51,0
+331,56,Eastern Europe,31,2,52,0
+331,57,Belarus,56,3,53,0
+331,58,Estonia,56,3,54,0
+331,59,Latvia,56,3,55,0
+331,60,Lithuania,56,3,56,0
+331,61,Moldova,56,3,57,0
+331,62,Russian Federation,56,3,58,0
+331,63,Ukraine,56,3,59,0
+331,42,Central Europe,31,2,60,0
+331,43,Albania,42,3,61,0
+331,44,Bosnia and Herzegovina,42,3,62,0
+331,45,Bulgaria,42,3,63,0
+331,46,Croatia,42,3,64,0
+331,47,Czech Republic,42,3,65,0
+331,48,Hungary,42,3,66,0
+331,49,Macedonia,42,3,67,0
+331,50,Montenegro,42,3,68,0
+331,51,Poland,42,3,69,0
+331,52,Romania,42,3,70,0
+331,53,Serbia,42,3,71,0
+331,54,Slovakia,42,3,72,0
+331,55,Slovenia,42,3,73,0
+331,32,Central Asia,31,2,74,0
+331,33,Armenia,32,3,75,0
+331,34,Azerbaijan,32,3,76,0
+331,35,Georgia,32,3,77,0
+331,36,Kazakhstan,32,3,78,0
+331,37,Kyrgyzstan,32,3,79,0
+331,38,Mongolia,32,3,80,0
+331,39,Tajikistan,32,3,81,0
+331,40,Turkmenistan,32,3,82,0
+331,41,Uzbekistan,32,3,83,0
+331,103,Latin America and Caribbean,1,1,84,0
+331,124,Central Latin America,103,2,85,0
+331,125,Colombia,124,3,86,0
+331,126,Costa Rica,124,3,87,0
+331,127,El Salvador,124,3,88,0
+331,128,Guatemala,124,3,89,0
+331,129,Honduras,124,3,90,0
+331,130,Mexico,124,3,91,0
+331,4643,Aguascalientes,130,4,91.1,1
+331,4644,Baja California,130,4,91.12,1
+331,4645,Baja California Sur,130,4,91.13,1
+331,4646,Campeche,130,4,91.14,1
+331,4649,Chiapas,130,4,91.15,1
+331,4650,Chihuahua,130,4,91.16,1
+331,4647,Coahuila,130,4,91.17,1
+331,4648,Colima,130,4,91.18,1
+331,4651,Distrito Federal,130,4,91.19,1
+331,4652,Durango,130,4,91.2,1
+331,4653,Guanajuato,130,4,91.21,1
+331,4654,Guerrero,130,4,91.22,1
+331,4655,Hidalgo,130,4,91.23,1
+331,4656,Jalisco,130,4,91.24,1
+331,4657,México,130,4,91.25,1
+331,4658,Michoacán de Ocampo,130,4,91.26,1
+331,4659,Morelos,130,4,91.27,1
+331,4660,Nayarit,130,4,91.28,1
+331,4661,Nuevo León,130,4,91.29,1
+331,4662,Oaxaca,130,4,91.3,1
+331,4663,Puebla,130,4,91.31,1
+331,4664,Querétaro,130,4,91.32,1
+331,4665,Quintana Roo,130,4,91.33,1
+331,4666,San Luis Potosí,130,4,91.34,1
+331,4667,Sinaloa,130,4,91.35,1
+331,4668,Sonora,130,4,91.36,1
+331,4669,Tabasco,130,4,91.37,1
+331,4670,Tamaulipas,130,4,91.38,1
+331,4671,Tlaxcala,130,4,91.39,1
+331,4672,Veracruz de Ignacio de la Llave,130,4,91.4,1
+331,4673,Yucatán,130,4,91.41,1
+331,4674,Zacatecas,130,4,91.42,1
+331,131,Nicaragua,124,3,92,0
+331,132,Panama,124,3,93,0
+331,133,Venezuela,124,3,94,0
+331,120,Andean Latin America,103,2,95,0
+331,121,Bolivia,120,3,96,0
+331,122,Ecuador,120,3,97,0
+331,123,Peru,120,3,98,0
+331,104,Caribbean,103,2,99,0
+331,105,Antigua and Barbuda,104,3,100,0
+331,106,The Bahamas,104,3,101,0
+331,107,Barbados,104,3,102,0
+331,108,Belize,104,3,103,0
+331,305,Bermuda,104,3,104,0
+331,109,Cuba,104,3,105,0
+331,110,Dominica,104,3,106,0
+331,111,Dominican Republic,104,3,107,0
+331,112,Grenada,104,3,108,0
+331,113,Guyana,104,3,109,0
+331,114,Haiti,104,3,110,0
+331,115,Jamaica,104,3,111,0
+331,385,Puerto Rico,104,3,112,0
+331,116,Saint Lucia,104,3,113,0
+331,117,Saint Vincent and the Grenadines,104,3,114,0
+331,118,Suriname,104,3,115,0
+331,119,Trinidad and Tobago,104,3,116,0
+331,422,"Virgin Islands, U.S.",104,3,117,0
+331,134,Tropical Latin America,103,2,118,0
+331,135,Brazil,134,3,119,0
+331,136,Paraguay,134,3,120,0
+331,4,"Southeast Asia, East Asia, and Oceania",1,1,121,0
+331,5,East Asia,4,2,122,0
+331,6,China,5,3,123,0
+331,7,North Korea,5,3,124,0
+331,8,Taiwan,5,3,125,0
+331,9,Southeast Asia,4,2,126,0
+331,10,Cambodia,9,3,127,0
+331,11,Indonesia,9,3,128,0
+331,12,Laos,9,3,129,0
+331,13,Malaysia,9,3,130,0
+331,14,Maldives,9,3,131,0
+331,183,Mauritius,9,3,132,0
+331,15,Myanmar,9,3,133,0
+331,16,Philippines,9,3,134,0
+331,17,Sri Lanka,9,3,135,0
+331,186,Seychelles,9,3,136,0
+331,18,Thailand,9,3,137,0
+331,19,Timor-Leste,9,3,138,0
+331,20,Vietnam,9,3,139,0
+331,21,Oceania,4,2,140,0
+331,298,American Samoa,21,3,141,0
+331,25,Federated States of Micronesia,21,3,142,0
+331,22,Fiji,21,3,143,0
+331,351,Guam,21,3,144,0
+331,23,Kiribati,21,3,145,0
+331,24,Marshall Islands,21,3,146,0
+331,376,Northern Mariana Islands,21,3,147,0
+331,26,Papua New Guinea,21,3,148,0
+331,27,Samoa,21,3,149,0
+331,28,Solomon Islands,21,3,150,0
+331,29,Tonga,21,3,151,0
+331,30,Vanuatu,21,3,152,0
+331,137,North Africa and Middle East,1,1,153,0
+331,138,North Africa and Middle East,137,2,154,0
+331,160,Afghanistan,138,3,155,0
+331,139,Algeria,138,3,156,0
+331,140,Bahrain,138,3,157,0
+331,141,Egypt,138,3,158,0
+331,142,Iran,138,3,159,0
+331,143,Iraq,138,3,160,0
+331,144,Jordan,138,3,161,0
+331,145,Kuwait,138,3,162,0
+331,146,Lebanon,138,3,163,0
+331,147,Libya,138,3,164,0
+331,148,Morocco,138,3,165,0
+331,149,Palestine,138,3,166,0
+331,150,Oman,138,3,167,0
+331,151,Qatar,138,3,168,0
+331,152,Saudi Arabia,138,3,169,0
+331,522,Sudan,138,3,170,0
+331,153,Syria,138,3,171,0
+331,154,Tunisia,138,3,172,0
+331,155,Turkey,138,3,173,0
+331,156,United Arab Emirates,138,3,174,0
+331,157,Yemen,138,3,175,0
+331,158,South Asia,1,1,176,0
+331,159,South Asia,158,2,177,0
+331,161,Bangladesh,159,3,178,0
+331,162,Bhutan,159,3,179,0
+331,163,India,159,3,180,0
+331,164,Nepal,159,3,181,0
+331,165,Pakistan,159,3,182,0
+331,166,Sub-Saharan Africa,1,1,183,0
+331,192,Southern Sub-Saharan Africa,166,2,184,0
+331,193,Botswana,192,3,185,0
+331,194,Lesotho,192,3,186,0
+331,195,Namibia,192,3,187,0
+331,196,South Africa,192,3,188,0
+331,197,Swaziland,192,3,189,0
+331,198,Zimbabwe,192,3,190,0
+331,199,Western Sub-Saharan Africa,166,2,191,0
+331,200,Benin,199,3,192,0
+331,201,Burkina Faso,199,3,193,0
+331,202,Cameroon,199,3,194,0
+331,203,Cape Verde,199,3,195,0
+331,204,Chad,199,3,196,0
+331,205,Cote d'Ivoire,199,3,197,0
+331,206,The Gambia,199,3,198,0
+331,207,Ghana,199,3,199,0
+331,208,Guinea,199,3,200,0
+331,209,Guinea-Bissau,199,3,201,0
+331,210,Liberia,199,3,202,0
+331,211,Mali,199,3,203,0
+331,212,Mauritania,199,3,204,0
+331,213,Niger,199,3,205,0
+331,214,Nigeria,199,3,206,0
+331,215,Sao Tome and Principe,199,3,207,0
+331,216,Senegal,199,3,208,0
+331,217,Sierra Leone,199,3,209,0
+331,218,Togo,199,3,210,0
+331,174,Eastern Sub-Saharan Africa,166,2,211,0
+331,175,Burundi,174,3,212,0
+331,176,Comoros,174,3,213,0
+331,177,Djibouti,174,3,214,0
+331,178,Eritrea,174,3,215,0
+331,179,Ethiopia,174,3,216,0
+331,180,Kenya,174,3,217,0
+331,181,Madagascar,174,3,218,0
+331,182,Malawi,174,3,219,0
+331,184,Mozambique,174,3,220,0
+331,185,Rwanda,174,3,221,0
+331,187,Somalia,174,3,222,0
+331,435,South Sudan,174,3,223,0
+331,189,Tanzania,174,3,224,0
+331,190,Uganda,174,3,225,0
+331,191,Zambia,174,3,226,0
+331,167,Central Sub-Saharan Africa,166,2,227,0
+331,168,Angola,167,3,228,0
+331,169,Central African Republic,167,3,229,0
+331,170,Congo,167,3,230,0
+331,171,Democratic Republic of the Congo,167,3,231,0
+331,172,Equatorial Guinea,167,3,232,0
+331,173,Gabon,167,3,233,0
+246,44587,African Union,44587,0,1,0
+241,44534,Commonwealth,44534,0,1,0
+241,44535,Commonwealth High Income,44534,1,2,0
+241,44536,Commonwealth Middle Income,44534,1,15,0
+241,44537,Commonwealth Low Income,44534,1,46,0
+240,4743,European Union,4743,0,1,0
+242,44590,Four World Regions,44590,0,1,0
+242,44559,Africa,44590,1,2,0
+242,44560,America,44590,1,57,0
+242,44561,Asia,44590,1,92,0
+242,44562,Europe,44590,1,148,0
+245,44586,G20,44586,0,1,0
+247,44642,Nordic Region,44642,0,1,0
+244,44584,OECD Countries,44584,0,1,0
+238,479,WHO region,479,0,1,0
+238,44563,African Region,479,1,2,0
+238,44567,Eastern Mediterranean Region,479,1,50,0
+238,44566,European Region,479,1,73,0
+238,44564,Region of the Americas,479,1,125,0
+238,44565,South-East Asia Region,479,1,161,0
+238,44568,Western Pacific Region,479,1,173,0
+243,44591,World Bank Income Levels,44591,0,1,0
+243,44575,World Bank High Income,44591,1,2,0
+243,44578,World Bank Low Income,44591,1,63,0
+243,44577,World Bank Lower Middle Income,44591,1,95,0
+243,44576,World Bank Upper Middle Income,44591,1,147,0
+239,478,World Bank Regions,478,0,1,0
+239,239,East Asia & Pacific - WB,478,1,2,0
+239,240,Europe & Central Asia - WB,478,1,36,0
+239,241,Latin America & Caribbean - WB,478,1,86,0
+239,243,Middle East & North Africa - WB,478,1,121,0
+239,44638,North America,478,1,143,0
+239,244,South Asia - WB,478,1,147,0
+239,242,Sub-Saharan Africa - WB,478,1,156,0

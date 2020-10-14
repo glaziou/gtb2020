@@ -1,0 +1,184 @@
+country,UHCindex,UHCdata,UHCgroup
+Afghanistan,34,84,high
+Albania,62,46,low
+Algeria,76,84,high
+Angola,36,58,medium
+Antigua and Barbuda,75,54,medium
+Argentina,76,84,high
+Armenia,67,84,high
+Australia,90,84,high
+Austria,90,62,medium
+Azerbaijan,64,62,medium
+Bahamas,72,62,medium
+Bahrain,72,62,medium
+Bangladesh,46,84,high
+Barbados,79,84,high
+Belarus,74,84,high
+Belgium,90,62,medium
+Belize,61,76,high
+Benin,41,92,high
+Bhutan,59,100,high
+Bolivia (Plurinational State of),60,70,medium
+Bosnia and Herzegovina,57,84,high
+Botswana,60,70,medium
+Brazil,77,84,high
+Brunei Darussalam,90,62,medium
+Bulgaria,64,62,medium
+Burkina Faso,39,86,high
+Burundi,43,78,high
+Cabo Verde,62,54,medium
+Cambodia,55,100,high
+Cameroon,44,78,high
+Canada,90,46,low
+Central African Republic,33,64,medium
+Chad,29,72,medium
+Chile,70,70,medium
+China,76,62,medium
+Colombia,76,76,high
+Comoros,47,86,high
+Congo,38,78,high
+Costa Rica,75,92,high
+Côte d'Ivoire,44,64,medium
+Croatia,69,76,high
+Cuba,78,92,high
+Cyprus,73,46,low
+Czechia,73,62,medium
+Democratic People's Republic of Korea,68,46,low
+Democratic Republic of the Congo,40,72,medium
+Denmark,90,62,medium
+Djibouti,47,64,medium
+Dominican Republic,74,76,high
+Ecuador,75,76,high
+Egypt,68,92,high
+El Salvador,77,84,high
+Equatorial Guinea,45,58,medium
+Eritrea,38,78,high
+Estonia,76,70,medium
+Ethiopia,39,92,high
+Fiji,66,76,high
+Finland,79,70,medium
+France,90,70,medium
+Gabon,52,64,medium
+Gambia,46,92,high
+Georgia,66,84,high
+Germany,79,70,medium
+Ghana,45,92,high
+Greece,70,46,low
+Grenada,72,54,medium
+Guatemala,57,76,high
+Guinea,35,72,medium
+Guinea-Bissau,39,64,medium
+Guyana,68,76,high
+Haiti,47,76,high
+Honduras,64,70,medium
+Hungary,70,54,medium
+Iceland,90,62,medium
+India,56,84,high
+Indonesia,49,92,high
+Iran (Islamic Republic of),65,84,high
+Iraq,63,70,medium
+Ireland,78,70,medium
+Israel,90,54,medium
+Italy,90,70,medium
+Jamaica,60,70,medium
+Japan,90,62,medium
+Jordan,70,70,medium
+Kazakhstan,71,84,high
+Kenya,57,100,high
+Kiribati,40,46,low
+Kuwait,77,70,medium
+Kyrgyzstan,66,92,high
+Lao People's Democratic Republic,48,92,high
+Latvia,64,62,medium
+Lebanon,68,54,medium
+Lesotho,45,84,high
+Liberia,34,92,high
+Libya,63,46,low
+Lithuania,67,62,medium
+Luxembourg,90,62,medium
+Madagascar,30,72,medium
+Malawi,44,86,high
+Malaysia,70,84,high
+Maldives,55,38,low
+Mali,32,86,high
+Malta,79,54,medium
+Mauritania,33,64,medium
+Mauritius,64,54,medium
+Mexico,76,92,high
+Micronesia (Federated States of),60,38,low
+Mongolia,63,92,high
+Montenegro,54,76,high
+Morocco,65,70,medium
+Mozambique,42,78,high
+Myanmar,60,76,high
+Namibia,59,84,high
+Nepal,46,92,high
+Netherlands,90,70,medium
+New Zealand,90,62,medium
+Nicaragua,70,62,medium
+Niger,33,78,high
+Nigeria,39,78,high
+Norway,90,54,medium
+Oman,72,70,medium
+Pakistan,40,92,high
+Panama,75,92,high
+Papua New Guinea,41,46,low
+Paraguay,69,70,medium
+Peru,78,84,high
+Philippines,58,92,high
+Poland,75,62,medium
+Portugal,90,54,medium
+Qatar,77,84,high
+Republic of Korea,90,76,high
+Republic of Moldova,65,92,high
+Romania,72,62,medium
+Russian Federation,63,62,medium
+Rwanda,53,86,high
+Saint Lucia,69,70,medium
+Saint Vincent and the Grenadines,65,46,low
+Samoa,56,76,high
+Sao Tome and Principe,54,70,medium
+Saudi Arabia,68,70,medium
+Senegal,41,78,high
+Serbia,65,92,high
+Seychelles,68,62,medium
+Sierra Leone,36,78,high
+Singapore,90,62,medium
+Slovakia,76,70,medium
+Slovenia,78,70,medium
+Solomon Islands,50,54,medium
+Somalia,22,50,medium
+South Africa,67,62,medium
+South Sudan,30,58,medium
+Spain,77,70,medium
+Sri Lanka,62,62,medium
+Sudan,43,72,medium
+Suriname,68,76,high
+Swaziland,58,92,high
+Sweden,90,70,medium
+Switzerland,90,62,medium
+Syrian Arab Republic,60,46,low
+Tajikistan,65,70,medium
+Thailand,75,76,high
+The former Yugoslav republic of Macedonia,70,70,medium
+Timor-Leste,47,54,medium
+Togo,42,92,high
+Tonga,62,62,medium
+Trinidad and Tobago,75,54,medium
+Tunisia,65,84,high
+Turkey,71,76,high
+Turkmenistan,67,54,medium
+Uganda,44,86,high
+Ukraine,63,84,high
+United Arab Emirates,63,46,low
+United Kingdom of Great Britain and Northern Ireland,90,54,medium
+United Republic of Tanzania,39,86,high
+United States of America,90,76,high
+Uruguay,79,76,high
+Uzbekistan,72,54,medium
+Vanuatu,56,76,high
+Venezuela (Bolivarian Republic of),73,62,medium
+Viet Nam,73,92,high
+Yemen,39,84,high
+Zambia,56,86,high
+Zimbabwe,55,86,high
