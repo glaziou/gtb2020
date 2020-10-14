@@ -34,7 +34,7 @@ yr <- 2019
 #' # Create connection string
 #' 
 connection_string <-
-  "driver={SQL Server}; server=ssdb231.who.int; database=TMEData; uid=TMEDATA_reader; pwd=Tmere@d3r"
+  "driver={SQL Server}; server=*; database=TMEData; uid=TMEDATA_reader; pwd=*"
 
 #' Connect to the database
 #' 
